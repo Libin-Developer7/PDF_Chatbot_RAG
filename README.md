@@ -1,0 +1,1 @@
+PDF chatbot: Ollama must be installed, and the models need to be pulled first with ollama pull llama3.2 and ollama pull nomic-embed-text. Run it with streamlit run app.py.
